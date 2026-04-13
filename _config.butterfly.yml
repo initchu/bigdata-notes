@@ -1,0 +1,119 @@
+# Butterfly 主题配置
+# 文档: https://butterfly.js.org/
+
+# 导航栏
+nav:
+  display_title: true
+  display_post_title: true
+  fixed: false
+
+menu:
+  首页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+
+# 禁用首页顶部大图
+disable_top_img: true
+
+# 首页副标题（打字机）- 完全关闭
+subtitle:
+  enable: false
+  effect: false
+  typed_option:
+  source: false
+  sub:
+
+# 文章封面
+cover:
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  default_cover:
+
+# 代码块
+code_blocks:
+  theme: darker
+  macStyle: true
+  copy: true
+  language: true
+  shrink: false
+  height_limit: false
+  word_wrap: false
+
+# 文章页设置
+post_meta:
+  page:
+    date_type: created
+    date_format: YYYY-MM-DD
+    categories: true
+    tags: true
+    label: true
+  post:
+    date_type: both
+    date_format: YYYY-MM-DD
+    categories: true
+    tags: true
+    label: true
+
+# 目录（TOC）
+toc:
+  post: true
+  page: false
+  number: true
+  expand: true
+  style_simple: false
+  scroll_percent: true
+
+# 右下角按钮
+rightside_scroll_percent: true
+rightside_bottom: 60px
+
+# 页脚
+footer:
+  owner:
+    enable: true
+    since: 2024
+  custom_text:
+  copyright: true
+
+# 背景特效 - 关闭，保持简洁
+canvas_ribbon:
+  enable: false
+canvas_fluttering_ribbon:
+  enable: false
+canvas_nest:
+  enable: false
+
+# 夜间模式
+display_mode: light
+dark_mode:
+  enable: true
+  default: light
+
+# 字体
+font:
+  global-font-size: 16px
+  code-font-size: 14px
+  font-family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+  code-font-family: "'JetBrains Mono', 'Fira Code', Consolas, monospace"
+
+# 搜索
+local_search:
+  enable: true
+  preload: false
+  CDN:
+
+# 图片懒加载
+lazyload:
+  enable: true
+  field: site
+  placeholder:
+  blur: false
+
+# 社交链接
+social:
+
+# 关于页
+about:
+  enable: false

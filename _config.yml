@@ -1,0 +1,73 @@
+# Hexo Configuration
+title: 大数据核心组件系统性梳理
+subtitle: '从 Hadoop 到 Flume，构建完整大数据知识体系'
+description: '系统梳理 Hadoop、HDFS、MapReduce、YARN、ZooKeeper、Hive、Flume 核心原理与面试要点'
+keywords: 大数据,Hadoop,HDFS,MapReduce,YARN,ZooKeeper,Hive,Flume
+author: BigData Notes
+language: zh-CN
+timezone: Asia/Shanghai
+
+url: https://your-site.vercel.app
+permalink: :title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
+
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: '  '
+  wrap: true
+  hljs: true
+
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+default_category: 大数据
+category_map:
+tag_map:
+
+meta_generator: true
+
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+per_page: 10
+pagination_dir: page
+
+theme: butterfly
+
+# 本地搜索
+search:
+  path: local-search.xml
+  field: post
+  content: true
+
+deploy:
+  type: ''

@@ -1,0 +1,89 @@
+# Fluid 主题配置
+# 文档: https://hexo.fluid-dev.com/docs/
+
+navbar:
+  blog_title: "大数据核心组件"
+  menu:
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+
+index:
+  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img_height: 60
+  banner_mask_alpha: 0.35
+  slogan:
+    enable: true
+    text: "系统掌握大数据核心组件，从入门到面试通关"
+  post_default_img: ""
+
+post:
+  banner_img: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80
+  banner_img_height: 45
+  banner_mask_alpha: 0.3
+  meta:
+    author:
+      enable: false
+    date:
+      enable: true
+      format: "YYYY-MM-DD"
+    wordcount:
+      enable: true
+      format: "{} 字"
+    min2read:
+      enable: true
+      format: "{} 分钟"
+  toc:
+    enable: true
+    headingSelector: h1,h2,h3,h4
+    collapseDepth: 2
+  copyright:
+    enable: false
+
+archive:
+  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img_height: 40
+  banner_mask_alpha: 0.3
+
+category:
+  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img_height: 40
+  banner_mask_alpha: 0.3
+
+tag:
+  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img_height: 40
+  banner_mask_alpha: 0.3
+
+about:
+  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img_height: 40
+  banner_mask_alpha: 0.3
+  avatar: https://avatars.githubusercontent.com/u/9919
+  name: "BigData Notes"
+  intro: "大数据核心组件系统性梳理，覆盖 Hadoop 生态全链路"
+  icons:
+    - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
+
+footer:
+  content: '大数据核心组件系统性梳理 &copy; 2024'
+
+code:
+  copy_btn: true
+  highlight:
+    enable: true
+    lib: "highlightjs"
+    highlightjs:
+      style: "github-dark"
+      bg_color: true
+
+lazyload:
+  enable: true
+
+search:
+  enable: true
+  path: /local-search.xml
+  field: post
+  content: true
