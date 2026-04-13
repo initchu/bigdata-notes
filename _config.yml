@@ -7,8 +7,8 @@ author: BigData Notes
 language: zh-CN
 timezone: Asia/Shanghai
 
-url: https://initchu.github.io/bigdata-notes
-root: /bigdata-notes/
+url: https://bigdata.initchu.asia
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
