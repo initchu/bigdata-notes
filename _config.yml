@@ -7,7 +7,8 @@ author: BigData Notes
 language: zh-CN
 timezone: Asia/Shanghai
 
-url: https://your-site.vercel.app
+url: https://initchu.github.io/bigdata-notes
+root: /bigdata-notes/
 permalink: :title/
 permalink_defaults:
 pretty_urls:
