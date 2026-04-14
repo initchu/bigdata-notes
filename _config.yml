@@ -62,7 +62,7 @@ updated_option: 'mtime'
 per_page: 10
 pagination_dir: page
 
-theme: butterfly
+theme: fluid
 
 # 本地搜索
 search:
