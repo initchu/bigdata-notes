@@ -3,7 +3,7 @@ title: MapReduce 核心组件系统性梳理
 date: 2024-01-03
 categories: [大数据]
 tags: [MapReduce, 分布式计算]
-slug: MapReduce核心组件系统性梳理
+permalink: /MapReduce核心组件系统性梳理/
 ---
 
 ## 1. MapReduce 是什么

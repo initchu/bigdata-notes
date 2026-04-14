@@ -3,7 +3,7 @@ title: Hive 核心组件系统性梳理
 date: 2024-01-06
 categories: [大数据]
 tags: [Hive, 数据仓库]
-slug: Hive核心组件系统性梳理
+permalink: /Hive核心组件系统性梳理/
 ---
 
 ## 1. Hive 产生背景

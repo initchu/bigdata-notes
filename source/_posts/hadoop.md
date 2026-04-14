@@ -3,7 +3,7 @@ title: Hadoop 核心组件系统性梳理
 date: 2024-01-01
 categories: [大数据]
 tags: [Hadoop, 大数据基础]
-slug: Hadoop核心组件系统性梳理
+permalink: /Hadoop核心组件系统性梳理/
 ---
 
 ## 1. Hadoop 是什么

@@ -3,7 +3,7 @@ title: YARN 核心组件系统性梳理
 date: 2024-01-04
 categories: [大数据]
 tags: [YARN, 资源调度]
-slug: YARN核心组件系统性梳理
+permalink: /YARN核心组件系统性梳理/
 ---
 
 ## 1. YARN 产生背景

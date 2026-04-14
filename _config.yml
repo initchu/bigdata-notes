@@ -9,7 +9,7 @@ timezone: Asia/Shanghai
 
 url: https://bigdata.chucz.asia
 root: /
-permalink: :slug/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: false

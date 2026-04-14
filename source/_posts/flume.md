@@ -3,7 +3,7 @@ title: Flume 核心组件系统性梳理
 date: 2024-01-07
 categories: [大数据]
 tags: [Flume, 日志采集]
-slug: Flume核心组件系统性梳理
+permalink: /Flume核心组件系统性梳理/
 ---
 
 ## 1. Flume 产生背景
