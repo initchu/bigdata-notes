@@ -26,7 +26,7 @@ index:
   post_default_img: ""
 
 post:
-  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776132991207_pexels-photo-29614944.webp
   banner_img_height: 45
   banner_mask_alpha: 0.3
   meta:
@@ -49,22 +49,22 @@ post:
     enable: false
 
 archive:
-  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776133226568_image.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 category:
-  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776133202075_image.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 tag:
-  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776133283918_image.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 about:
-  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776132504078_image.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
   avatar: https://avatars.githubusercontent.com/u/9919

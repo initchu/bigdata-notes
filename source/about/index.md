@@ -1,7 +1,7 @@
 ---
 title: 关于
 date: 2024-01-01
-banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
+banner_img: https://img2.chucz.asia/file/wallpaper/1776133256115_image.webp
 banner_img_height: 40
 banner_mask_alpha: 0.3
 ---
