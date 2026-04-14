@@ -3,6 +3,7 @@ title: HDFS 核心组件系统性梳理
 date: 2024-01-02
 categories: [大数据]
 tags: [HDFS, 分布式存储]
+slug: HDFS核心组件系统性梳理
 ---
 
 ## 1. HDFS 是什么

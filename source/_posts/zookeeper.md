@@ -3,6 +3,7 @@ title: ZooKeeper 核心组件系统性梳理
 date: 2024-01-05
 categories: [大数据]
 tags: [ZooKeeper, 分布式协调]
+slug: ZooKeeper核心组件系统性梳理
 ---
 
 ## 1. ZooKeeper 是什么
