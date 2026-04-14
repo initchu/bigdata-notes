@@ -11,16 +11,22 @@ navbar:
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
 
 index:
-  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1776128795471_image.webp
   banner_img_height: 60
   banner_mask_alpha: 0.35
   slogan:
     enable: true
     text: "系统掌握大数据核心组件，从入门到面试通关"
+    api:
+      enable: true
+      url: "https://v1.hitokoto.cn"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
   post_default_img: ""
 
 post:
-  banner_img: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
   banner_img_height: 45
   banner_mask_alpha: 0.3
   meta:
@@ -43,22 +49,22 @@ post:
     enable: false
 
 archive:
-  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 category:
-  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 tag:
-  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
 
 about:
-  banner_img: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1600&q=80
+  banner_img: https://img2.chucz.asia/file/wallpaper/1775662512785_12.webp
   banner_img_height: 40
   banner_mask_alpha: 0.3
   avatar: https://avatars.githubusercontent.com/u/9919
@@ -87,3 +93,11 @@ search:
   path: /local-search.xml
   field: post
   content: true
+
+fun_features:
+  typing:
+    enable: true
+    typeSpeed: 70
+    cursorChar: "_"
+    loop: true
+    scope: []

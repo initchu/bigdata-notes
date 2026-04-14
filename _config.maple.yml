@@ -1,0 +1,51 @@
+# Header navigation
+nav:
+  文章: /archives
+  分类: /categories
+  标签: /tags
+
+# favicon
+favicon: /favicon.png
+
+# logo
+logo:
+
+# links
+links:
+  # Github:
+
+# analytics
+google_analytics:
+baidu_analytics:
+
+# fancybox
+fancybox: true
+
+# mathjax
+mathjax: true
+
+# echarts
+echarts: true
+
+# busuanzi 访问统计
+busuanzi: true
+
+# mermaid
+mermaid:
+  enable: true
+  theme: default
+
+# giscus 评论
+giscus:
+  enable: false
+  repo:
+  repo_id:
+  category:
+  category_id:
+  mapping:
+
+# maple 落叶动效
+maple:
+  enable: true
+  count: 10
+  speed: 0.5
