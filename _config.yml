@@ -1,5 +1,5 @@
 # Hexo Configuration
-title: 大数据核心组件系统性梳理
+title: 褚成志的大数据笔记系统性梳理
 subtitle: '从 Hadoop 到 Flume，构建完整大数据知识体系'
 description: '系统梳理 Hadoop、HDFS、MapReduce、YARN、ZooKeeper、Hive、Flume 核心原理与面试要点'
 keywords: 大数据,Hadoop,HDFS,MapReduce,YARN,ZooKeeper,Hive,Flume

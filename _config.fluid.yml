@@ -2,7 +2,7 @@
 # 文档: https://hexo.fluid-dev.com/docs/
 
 navbar:
-  blog_title: "大数据核心组件"
+  blog_title: "褚成志的大数据笔记"
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
@@ -16,7 +16,7 @@ index:
   banner_mask_alpha: 0.35
   slogan:
     enable: true
-    text: "系统掌握大数据核心组件，从入门到面试通关"
+    text: "系统掌握褚成志的大数据笔记，从入门到面试通关"
     api:
       enable: true
       url: "https://v1.hitokoto.cn"
@@ -69,12 +69,12 @@ about:
   banner_mask_alpha: 0.3
   avatar: https://avatars.githubusercontent.com/u/9919
   name: "BigData Notes"
-  intro: "大数据核心组件系统性梳理，覆盖 Hadoop 生态全链路"
+  intro: "褚成志的大数据笔记系统性梳理，覆盖 Hadoop 生态全链路"
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
 
 footer:
-  content: '大数据核心组件系统性梳理 &copy; 2024'
+  content: '褚成志的大数据笔记系统性梳理 &copy; 2024'
 
 code:
   copy_btn: true
